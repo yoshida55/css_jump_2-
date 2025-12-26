@@ -116,7 +116,7 @@ body {
   font-size: 3rem;
 }
 
-.text_box {
+.text_box1 {
   position: absolute;
   bottom: 3rem;
   left: -2rem;
@@ -124,4 +124,45 @@ body {
   width: 36rem;
   height: 13rem;
   background-color: #f9e90699;
+}
+
+/* ┌─────────────────────────────────────────┐
+   │ 新しい価値の創造                        │
+   └─────────────────────────────────────────┘ */
+
+.concept_area {
+  width: 100%;
+  padding-right: 5rem;
+  margin-bottom: 10rem;
+  writing-mode: vertical-rl;
+}
+
+.ja {
+  font-size: 6rem;
+  font-weight: bold;
+}
+.en {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+
+.img {
+  margin-top: 10rem;
+  position: relative;
+}
+
+.text {
+  top: 5rem;
+  left: 5rem;
+  font-size: 3rem;
+}
+
+.text_box2 {
+  position: absolute;
+  bottom: 3rem;
+  left: -2rem;
+
+  width: 36rem;
+  height: 13rem;
+  background-color: #952a2699;
 }
